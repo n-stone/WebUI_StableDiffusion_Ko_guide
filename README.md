@@ -3,8 +3,6 @@
 ## 1. Web UI Git 가져오기
 > $ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
-<br>
-
 ## 2. Web UI 사용하기
 ### 경로 설정 
 - 내 PC → C: → MY FOLDER(자유롭게 폴더 하나 생성) → Stable-diffusion-webui
@@ -17,8 +15,6 @@
 - http://127.0.0.1:7860
 
 (이후 접속 하려면, webui-user.bat 실행 후 "To creat ~ " 문구 발생 시 위 링크 접속하면 된다.) 
-
-<br>
 
 ## 3. Stable Diffusion 사용하기 (그림체 셋팅)
 - 나는 Web UI를 활용하여 만화 스타일로 그림 그리는 방법을 택했다.
